@@ -22146,7 +22146,7 @@ This section lists recommended libraries, and explicitly recommends a few.
 
 ??? Suitable for the general guide? I think not ???
 
-# <a name="S-modernizing"></a>Appendix B: Modernizing code
+# <a id="S-modernizing"></a>Appendix B: Modernizing code
 
 Ideally, we follow all rules in all code.
 Realistically, we have to deal with a lot of old code:
